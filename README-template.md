@@ -25,7 +25,7 @@ This is a Qr Code Component Project given by Frontend Mentor
 ### Links
 
 - Solution URL: [Solution](https://github.com/Horlly-moon/qr-code-component.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site URL here](https://horlly-moon.github.io/Qr-code-component-main.github.io/)
 
 
 ### Built with
@@ -58,7 +58,7 @@ I am still having a little bit of problem on how and when to us it. Hopes of get
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Horlly-moon](https://horlly-moon.github.io/Qr-code-component-main.github.io/)
 - Frontend Mentor - [@Horlly-moon](https://www.frontendmentor.io/profile/Horlly-moon)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@FaithTolu386571](https://www.twitter.com/FaithTolu386571)
 
