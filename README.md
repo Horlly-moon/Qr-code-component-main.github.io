@@ -54,7 +54,7 @@ I learnt how to make use of the margin and padding in CSS.
 
 ### Continued development
 
-I am still having a little bit of problem on how and when to us it. Hopes of getting a feedback in this project will sure be alot of help in improving my coding skills.
+I am still having a little bit of problem on how and when to use it. Hopes of getting a feedback in this project will sure be alot of help in improving my coding skills.
 
 
 ## Author
