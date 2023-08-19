@@ -25,7 +25,7 @@ This is a Qr Code Component Project given by Frontend Mentor
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/Horlly-moon/qr-code-component.git)
+- Solution URL: [Solution](https://github.com/Horlly-moon/Qr-code-component-main.github.io)
 - Live Site URL: [live site URL here](https://horlly-moon.github.io/Qr-code-component-main.github.io/)
 
 
